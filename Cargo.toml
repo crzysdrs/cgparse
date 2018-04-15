@@ -1,0 +1,7 @@
+[package]
+name = "cgparse"
+version = "0.1.0"
+authors = ["Mitch Souders <mitch.souders@gmail.com>"]
+
+[dependencies]
+nom = "^3.2"

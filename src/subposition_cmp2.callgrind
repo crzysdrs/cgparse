@@ -1,0 +1,8 @@
+# callgrind format
+positions: instr line
+events: ticks
+
+fn=func
+0x80001234 90 1
++3 * 5
++1 +1 6

@@ -1,0 +1,8 @@
+# callgrind format
+events: Ir Dr
+event: Ir : Instruction Fetches
+event: Sum = Ir + Dr
+
+fl=(2)
+fn=(3)
+20 700

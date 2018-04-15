@@ -1,0 +1,6 @@
+# callgrind format
+events: Cycles Instructions Flops
+fl=file.f
+fn=main
+15 90 14 2
+16 20 12
